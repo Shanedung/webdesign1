@@ -1,0 +1,208 @@
+body{
+    
+    font-family: 'Spartan', sans-serif;
+    font-size: 15px;
+    color: #522050;
+
+} 
+
+h1{
+
+    color: #522050;
+    margin: 0 0 5px 0;
+    font-weight: bold;
+    font-size: 3rem;
+}
+h3{
+    color: #FFFFFF;
+    margin: 0;
+}
+.verified-buyer{
+    color: #9E4683;
+    margin: 2px;
+    font-size: 13px;
+}
+.h3-irene{
+    color: #9E4683;
+    margin: 2px;
+    font-size: 13px;
+}
+.h3-anne{
+    color: #9E4683;
+    margin: 2px;
+    font-size: 13px;
+}
+.rate5star{
+    line-height: 3;
+}
+p{
+    margin: 0;
+    line-height: 3;
+}
+
+img{
+    border-radius: 90px;
+    float: left;
+    margin-right: 30px;
+    width: 50px;
+    margin-bottom: 30px;
+}
+
+.our-products{
+    position: relative;
+    width: 480px;
+    padding: 100px 100px 50px 100px;
+  
+}
+.box{
+    
+    padding-bottom: 100px;
+}
+.our-review{
+    font-weight: bold;
+    position: absolute;
+    left: 50rem;
+    top: 120px;
+
+}
+
+.Review{
+    padding-left: 20px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #F7F2F8;
+    margin-bottom: 20px;
+
+}
+
+.Guru{
+    padding-left: 20px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #F7F2F8; 
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.BestTech{
+    padding-left: 20px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    background-color: #F7F2F8; 
+}
+
+
+
+
+.box{
+
+    position: relative;
+}
+
+.colton{
+    margin-left: 1000px;
+    float: left;
+}
+.Colton-Smith{
+    text-align: left;
+    left: 100px;
+    position: relative;
+    border-radius: 5px;
+    background-color: #522050;
+    width: 300px;
+    padding: 30px 40px 50px;
+    font-size: 11px;
+   
+   
+}
+.inColton-Smith{
+
+    padding: 10px;
+}
+.text-colton{
+    color: #FFFFFF;
+    font-size: 11px;
+    clear: left;
+    line-height: 2;
+    
+}
+.text-introduce{
+    line-height: 2;
+}
+
+.Irene-Roberts{
+    text-align: left;
+    left: 500px;
+    bottom:  230px;
+    position: relative;
+    border-radius: 5px;
+    background-color: #522050;
+    width: 300px;
+    padding: 30px 40px 50px;
+    font-size: 11px;
+
+
+}
+.text-Irene{
+    line-height: 2;
+    color: #FFFFFF;
+    clear: left;
+}
+.Anne-Wallace{
+    text-align: left;
+    left: 900px;
+    bottom: 460px;
+    position: relative;
+    border-radius: 5px;
+    background-color: #522050;
+    width: 300px;
+    padding: 30px 60px 50px;
+    font-size: 11px;
+}
+.text-Anne{
+    line-height: 2;
+    color: #FFFFFF;
+    clear: left;
+    width: 290px;
+    
+}
+  
+  
+  
+  
+  
+    /*
+  The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+Very Dark Magenta: hsl(300, 43%, 22%)
+Soft Pink: hsl(333, 80%, 67%)
+
+### Neutral
+
+Dark Grayish Magenta: hsl(303, 10%, 53%)
+Light Grayish Magenta: hsl(300, 24%, 96%)
+White: hsl(0, 0%, 100%)
+
+## Typography--------- done
+
+### Body Copy ---- done
+
+- Font size: 15px
+
+### Font -----------done
+
+- Family: [Spartan](https://fonts.google.com/specimen/Spartan)
+- Weights: 400, 500, 700
+  */
+
+
+    
